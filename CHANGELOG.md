@@ -1,4 +1,3 @@
 ## v1.1.0
-
-   - bullet describing the introduction and history updates it is good
-   - bullet describing the conflict resolution in docs/collaboration.md it is good
+- bullet describing the introduction and history updates it is good
+- bullet describing the conflict resolution in docs/collaboration.md it is good
